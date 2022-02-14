@@ -1,2 +1,2 @@
-coincurve~=15.0
+coincurve>=15.0.0
 base58~=2.0
